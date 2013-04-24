@@ -1,0 +1,52 @@
+/* copyright images to the owner ogf the image */
+html {
+     background: url('http://www.leolanese.com/rulegrid/img/beresponsive.png') no-repeat;
+}
+
+#box {
+    width:60em; /* 960px */
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    clear: both;
+    top:0;
+}
+
+#box:before {
+    content:'';
+    background-color: #363636;
+    height: 600px;
+    float: left;
+    margin-top: 0;
+    width:10px;
+}
+
+#box:after {
+    content:'';
+    background-color: #363636;
+    height: 600px;
+    float: left;
+    margin-top: 0;
+    width:10px;
+}
+
+.column {
+    background-color: #84e0a9;
+    height: 600px;
+    float: left;
+    margin-top: 0;
+    width: 60px;
+}
+.gutter {
+    background-color: #ededed;
+    height: 600px;
+    float: left;
+    margin-top: 0;
+    width: 20px;
+}
+
+div {
+    opacity:0.4;
+}
+/**/
