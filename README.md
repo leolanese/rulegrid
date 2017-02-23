@@ -39,4 +39,4 @@ Vanilla grid is free to use and abuse under WTFPL
 Follow me at:<a href="http://twitter.com/LeoLaneseltd" target="_blank">http://twitter.com/LeoLaneseltd</a><br>
 
 # Questions / Suggestion / Recommendation ?<br>
-<a href="mail:to">angularjs@leolanese.com</a><br>
+<a href="mail:to">developer@leolanese.com</a><br>
