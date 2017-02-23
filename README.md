@@ -1,6 +1,6 @@
 ruleGrid:
 Is a simple front-end tool to display a 960 grid floating over your layout: 40px column, 10px gutter, 10px outter-gutter.
-
+The idea is to set this grid on top of you UI, so we can easily measure sizes.
 
 Function:
 Also you can double click any column and remove it from the grid, a counter will be display the number of column you have
